@@ -8,3 +8,4 @@ Chat server contains the server socket which will add the users as per request.
 Chat client
 ChatClient requests the server to connect to it.
 Run ChatClient multiple time to enjoy chatting.
+Either run ChatClient from multiple command prompts or run the user.jar for the same purpose.
